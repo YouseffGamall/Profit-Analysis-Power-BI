@@ -1,4 +1,4 @@
-# # Product Analysis Dashboard – Power BI Project
+# Product Analysis Dashboard – Power BI Project
 
 ## Overview
 
@@ -113,9 +113,5 @@ This dashboard enables:
 * Implement forecasting and predictive analytics.
 
 ---
-
-## Author
-
-Created as a Power BI Data Analysis Project for business intelligence and reporting purposes.
 
 <img width="1306" height="733" alt="P2" src="https://github.com/user-attachments/assets/1b931ed6-de84-44fc-97b1-4579a91708fe" />
