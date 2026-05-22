@@ -1,7 +1,3 @@
-# Product-Performance-Dashboard---Power-BI-Project
-This project is a Power BI Product Performance Dashboard created to analyze product data, business performance, and operational insights through interactive reports and visual storytelling.
-
-The dashboard is designed to help users monitor performance metrics, explore product-related insights, and interact with business data efficiently.
 # # Product Analysis Dashboard – Power BI Project
 
 ## Overview
